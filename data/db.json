@@ -1,0 +1,29 @@
+{
+    "posts": [
+        { 
+            "id": 1, 
+            "title": "Atomic Habit", 
+            "author": "John Doe" 
+        },
+        { 
+            "id": 2, 
+            "title": "JSON Server", 
+            "author": "Jane Doe" 
+        }
+    ],
+
+    "comments": [
+        { 
+            "id": 1, 
+            "body": "Great post!", 
+            "postId": 1 
+        },
+        { 
+            "id": 1, 
+            "body": "Very information", 
+            "postId": 1 
+        }
+    ],
+
+    "Profile": { "name": "John Doe" }
+}
